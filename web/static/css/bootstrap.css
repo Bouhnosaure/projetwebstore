@@ -5,6 +5,7 @@
  */
 
 /*! normalize.css v3.0.0 | MIT License | git.io/normalize */
+/*{outline:1px solid red}*/
 html {
   font-family: sans-serif;
   -webkit-text-size-adjust: 100%;
@@ -3459,7 +3460,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .nav > li > a {
   position: relative;
   display: block;
-  padding: 10px 15px;
+  padding: 10px 10px;
 }
 .nav > li > a:hover,
 .nav > li > a:focus {

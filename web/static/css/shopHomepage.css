@@ -1,0 +1,122 @@
+body {
+  padding-top: 70px
+}
+
+.slide-image {
+  width: 100%;
+}
+
+.carousel-holder {
+  margin-bottom: 30px;
+}
+
+.carousel-control,.item {
+  border-radius: 4px;
+}
+
+.caption {
+  height: 130px;
+  overflow: hidden;
+}
+
+.caption h4 {
+  white-space: nowrap;
+}
+
+.thumbnail img {
+  width: 100%;
+}
+
+.ratings {
+  color: #d17581;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.thumbnail {
+  padding: 0;
+}
+
+.thumbnail .caption-full {
+  padding: 9px;
+  color: #333;
+}
+
+footer {
+  margin: 50px 0;
+}
+.navbar{
+    height:52px;
+    overflow: hidden;
+}
+
+.navbar-brand {
+  float: left;
+  height: 50px;
+  padding: 0px 0px;
+  
+  line-height: 10px;
+
+}
+.textNavbar{
+      font-size: 20px;
+}
+.textNavbar button {
+    font-size: 16px;
+}
+
+.buttonSignIn{
+margin-top: 8px;
+margin-left: -24px;
+
+}
+
+.research{
+    display:inline-block;
+}
+
+li{
+   padding-left: 50px; 
+}
+
+.identificationForm{
+    display:inline-block;
+}
+
+.signInForm,.signUpForm{
+    border: 1px solid black;
+    padding-top: 5px;
+}
+.signUpForm{
+    margin-right: 10%x;
+}
+.textForm{
+    font-size: 32px;
+    text-align: center;
+    
+}
+.synopsis{
+    margin-left: 20%;
+}
+.itemSolo{
+    margin-top: 16px;
+}
+
+.itemCart{
+    margin-left: 10%;
+}
+
+.dateExpirationCarte{
+    
+    display: inline-block;
+}
+
+.itemRecap{
+    margin-left: 10%;
+    border: 1px solid black;
+}
+
+.itemRecapPrixTotal{
+    margin-left: 10%;
+     display: inline-block;
+}

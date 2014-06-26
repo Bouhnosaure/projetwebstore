@@ -9,7 +9,7 @@ define('CTRL', ROOT . 'Controller/');
 define('MODL', ROOT . 'Model/');
 define('VIEW', ROOT . 'View/');
 define('TMPL', VIEW . 'tpl/');
-define('STIC', 'http://localhost/webproject/web/static');
+define('STIC', 'http://localhost/projetwebstore/web/static');
 define('DRAP', TRUE); // Direct Access Protection
 
 const HOST = "localhost";
